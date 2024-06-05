@@ -1,7 +1,9 @@
-[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)](https://rishavchanda.io)
+<a href="https://rishavchanda.io">
+  <img src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif" alt="MasterHead" style="width:100%; max-width:1200px; height:auto; display:block; margin-left:auto; margin-right:auto;">
+</a>
 
-<h1 align="center">Hi 👋, I'm Daniel Jackson</h1>
-<h3 align="center">A passionate Machine Learning Engineer, seeking opportunities to impact lives.</h3>
+<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 3em;">Hi 👋, I'm Daniel Jackson</h1>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #2c3e50; font-style: italic;">A passionate Machine Learning Engineer, seeking opportunities to impact lives.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
@@ -15,23 +17,17 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **[Cancer Variance](N/A)**
-
-- 🌱 I’m currently learning **Apache Airflow, NLP**
-
-- 👯 I’m looking to collaborate on **[Machine Learning in Healthcare](N/A)**
-
-- 🤝 I’m looking for help with **[Datasets](N/A)**
-
-- 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/DanielJacksonc)**
-
-- 📝 I regularly write articles on **[My Blog](N/A)**
-
-- 💬 Ask me about **Python, Pandas, ML, DS**
-
-- 📫 How to reach me **danieljacksonc33@gmail.com**
-
-- ⚡ Fun fact **I play 5 musical instruments**
+<ul>
+  <li>🔭 I’m currently working on <b>Cancer Variance</b></li>
+  <li>🌱 I’m currently learning <b>Apache Airflow, NLP</b></li>
+  <li>👯 I’m looking to collaborate on <b>Machine Learning in Healthcare</b></li>
+  <li>🤝 I’m looking for help with <b>Datasets</b></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/DanielJacksonc" style="color:#3498db;">My GitHub</a></li>
+  <li>📝 I regularly write articles on <b>My Blog</b></li>
+  <li>💬 Ask me about <b>Python, Pandas, ML, DS</b></li>
+  <li>📫 How to reach me <b>danieljacksonc33@gmail.com</b></li>
+  <li>⚡ Fun fact <b>I play 5 musical instruments</b></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
