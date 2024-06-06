@@ -18,10 +18,10 @@
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <b>Cancer Variance</b></li>
+  <li>🔭 I’m currently working on <b>'Netflix Recommedation System'</b></li>
   <li>🌱 I’m currently learning <b>Apache Airflow, NLP</b></li>
   <li>👯 I’m looking to collaborate on <b>Machine Learning in Healthcare</b></li>
-  <li>🤝 I’m looking for help with <b>Datasets</b></li>
+  <li>🤝 I’m looking for help with <b>Real life Datasets in healthcare </b></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/DanielJacksonc" style="color:#3498db;">My GitHub</a></li>
   <li>📝 I regularly write articles on <b>My Blog</b></li>
   <li>💬 Ask me about <b>Python, Pandas, ML, DS</b></li>
