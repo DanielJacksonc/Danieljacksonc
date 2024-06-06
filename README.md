@@ -2,7 +2,7 @@
   <img src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif" alt="MasterHead" style="width:100%; max-width:1200px; height:auto; display:block; margin-left:auto; margin-right:auto;">
 </a>
 
-<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 3em;">Hi 👋, I'm Daniel Jackson</h1>
+<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 3em;">Hi 👋, I'm Daniel Jackson, Welcome to my Hub</h1>
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #2c3e50; font-style: italic;">A passionate Machine Learning Engineer, seeking opportunities to impact lives.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
